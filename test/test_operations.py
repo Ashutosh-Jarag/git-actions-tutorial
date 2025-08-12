@@ -7,8 +7,8 @@ def test_add():
 
 def test_sub():
     assert sub(2,3) == -1
-    assert sub(1-1) == 0
-    assert sub(10-5) == 5
+    assert sub(1,1) == 0
+    assert sub(10,5) == 5
 
 def test_mul():
     assert mul(2,3) == 6

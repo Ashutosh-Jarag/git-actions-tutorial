@@ -6,3 +6,9 @@ def mul(a,b):
     return a*b
 def div(a,b):
     return a/b
+
+
+#def hi():
+#    return 'hello world from the main aplication'
+
+
